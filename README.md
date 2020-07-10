@@ -1,3 +1,4 @@
+![DOI badge](https://zenodo.org/badge/DOI/10.5281/zenodo.3939310.svg)
 # Neural activity score
 A novel index for analyzing microelectrode array data.
 
